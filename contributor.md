@@ -1,4 +1,4 @@
 ### Format
-#### Name:
-#### Github Username:
-#### Github account Link:
+#### Name:ADITYA SWARROP
+#### Github Username:adityaswaroop823
+#### Github account Link:https://github.com/adityaswaroop823
